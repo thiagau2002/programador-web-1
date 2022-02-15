@@ -1,2 +1,3 @@
 cooler
 procesador
+ram
