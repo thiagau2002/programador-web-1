@@ -1,0 +1,9 @@
+h1{
+    text-transform: uppercase; /*mayuscula*/
+    text-align: center; /*ALINEACION*/
+}
+
+h2{
+    text-transform: uppercase;
+    color: blue;
+}
