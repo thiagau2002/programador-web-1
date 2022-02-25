@@ -1,0 +1,53 @@
+img{
+    width: 200px;
+}
+h3{
+    color: blue;
+}
+.perfil{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+
+}
+#violeta2{
+    background-color: rgb(223, 118, 255);
+    width: 200px;
+    height: 200;
+    box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+}
+#violeta2:hover{
+    background-color: rgb(255, 225, 89);
+    width: 200px;
+    height: 200;
+}
+#violeta1{
+    background-color: rgb(223, 118, 255);
+    width: 200px;
+    height: 200;
+    box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+}
+#violeta1:hover{
+    background-color: rgb(255, 225, 89);
+    width: 200px;
+    height: 200;
+}
+.colordetitulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#violeta3{
+    background-color: rgb(223, 118, 255);
+    width: 500px;
+    height: 500;
+    box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -10px 3px 5px 0px rgba(0,0,0,0.75);
+}
+#violeta3:hover{
+    background-color: rgb(255, 225, 89);
+    width: 500px;
+    height: 500;
+}
