@@ -1,0 +1,42 @@
+.boton {
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+
+
+.alternar {
+    background: lightblue;
+}
+
+.alternar.activo {
+    background: rgb(255, 225, 0);
+    color: white;
+}
+
+.alternar2 {
+    background: lightblue;
+}
+
+.alternar.activo2 {
+    background: rgb(255, 0, 0);
+    color: white;
+}
+.alternar2 {
+    background: lightblue;
+}
+
+.alternar.activo3 {
+    background: rgb(0, 255, 42);
+    color: white;
+}
+
+
+      
