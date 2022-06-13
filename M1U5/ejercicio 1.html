@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ejercicio_1.css">
+</head>
+<body>
+    <h3>Alternar fondo del recuardro</h3>
+    <p>
+      <li><button class="boton alternar">Cambia a color amarillo</button></li>
+      <br>
+      <li><button class="boton alternar">Cambia a color rojo</button></li>
+      <br>
+      <li><button class="boton alternar">Cambia a color verde</button></li>
+            
+       
+
+
+
+     
+    
+        
+        
+    </p>
+    <script>
+        var alternar = document.getElementsByClassName('alternar')[0];
+        var alternar2 = document.getElementsByClassName('alternar')[1];
+        var alternar3 = document.getElementsByClassName('alternar')[2];
+
+        alternar.addEventListener('click', function(e) {
+            e.target.classList.toggle('activo');
+        });
+        alternar2.addEventListener('click', function(e) {
+            e.target.classList.toggle('activo2');
+        });
+        alternar3.addEventListener('click', function(e) {
+            e.target.classList.toggle('activo3');
+        });
+        
+        
+        
+   	
+    </script>
+</body>
+</html>
