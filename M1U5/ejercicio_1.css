@@ -21,12 +21,15 @@
     color: white;
 }
 
+
 .alternar2 {
     background: lightblue;
 }
 
 .alternar.activo2 {
+    
     background: rgb(255, 0, 0);
+
     color: white;
 }
 .alternar2 {
