@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(champions.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    backdrop-filter: blur(5px);
+
+
+
+}
+
+.col-9 {
+    margin: 0;
+    padding: 0;
+    background: url(champions3.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    backdrop-filter: blur(5px);
+}
+.col-3 {
+    margin: 0;
+    padding: 0;
+    background: url(champions3.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    backdrop-filter: blur(5px);
+    border: 1px solid white;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h6 {
+    color: aliceblue;
+}
+
+tr{
+    color: aliceblue;
+    border: 1px solid white;
+}
+h4 {
+    color: aliceblue;
+}
+
+.card-body{
+    margin: 0;
+    padding: 0;
+    background: url(champions3.jpg);
+    
+    font-family: sans-serif;
+    backdrop-filter: blur(5px);
+    border: 1px solid white;
+
+
+}
+
+.card
+{
+    margin: 0;
+    padding: 0;
+    background: url(champions3.jpg);
+    
+    font-family: sans-serif;
+    backdrop-filter: blur(5px);
+    border: 1px solid white;
+
+
+}
+
