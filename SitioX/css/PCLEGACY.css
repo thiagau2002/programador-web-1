@@ -1,0 +1,96 @@
+/*
+font-family: 'Roboto', sans-serif;
+*/
+body {
+    margin: 0;
+    padding: 0;
+   
+   
+}
+footer {
+    background-color: rgb(0, 0, 0);
+
+}
+
+h1,
+h2,
+p {
+    
+    color: rgb(0, 0, 0);
+}
+
+.hero {
+
+    background: url(../img/cabezera.jpg);
+    background-size: cover;
+    height: 20svh;
+    min-height: 600px;
+    color: rgb(0, 0, 0);
+
+}
+
+.card-body {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.card-body li {
+    margin: 4px 0;
+}
+
+.card-body a {
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #a0a0a0;
+    transition: all .2s ease-in-out;
+    display: block;
+    float: left;
+}
+
+.card-body li a:hover {
+    color: #212529;
+    background-color: #dadada;
+}
+
+.card-body li a img {
+    width: 120px;
+    height: 50px;
+    filter: grayscale();
+    transition: all .2s ease-in-out;
+    margin-right: 1.4rem;
+    opacity: 0.7;
+    float: left;
+}
+
+.card-body a:hover img {
+    filter: none;
+    margin-right: 1.4rem;
+    opacity: 1;
+    float: left;
+}
+
+.testimonio{
+    background-color: #dadada;
+    padding-bottom: 4rem !important;
+    border: 1px;
+    
+   
+}
+
+.testimonio {
+text-align: center;
+padding: 50px 20px;
+}
+
+#novedades{
+text-align:center
+}
+
+.form-group{
+    background-color: #f9fcff;
+}
+
+
